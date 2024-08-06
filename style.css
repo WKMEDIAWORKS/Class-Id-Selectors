@@ -1,0 +1,16 @@
+.class-text-1,.class-text-5,.class-text-3{
+    background-color:rgb(255,192,203);
+    font-family: Verdana,"DejaVu Sans", serif;
+}
+#id2{
+    color:rgb(0,0,255);
+    font-size:36px;
+}
+.class-text-3{
+    font-size:24px;
+}
+#id3{
+    background-color: rgb(0,128,0);
+    font-size:24px;
+    font-weight:bold;
+}
